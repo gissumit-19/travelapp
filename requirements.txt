@@ -1,3 +1,4 @@
 lagchain
 langchain-openai
 streamlit
+pip
